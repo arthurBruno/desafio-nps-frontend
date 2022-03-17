@@ -17,3 +17,5 @@
 - [ ] Disponibilizamos as telas mobile para implementação de um desing responsivo;
 
 - [ ] Pode ser usada qualquer lib que facilite o desenvolvimento.
+
+A tela abaixo do modal pode ser ignorada, pode abrir uma página em branco.
