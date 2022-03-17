@@ -8,6 +8,8 @@
 
 - [ ] Caso o usuário pare a pesquisa no meio e feche a página e a abra novamente, ele deve continuar a pesquisa de onde parou;
 
+- [ ] Caso o usuário tenha respondido a pesquisa e abra novamente a página, deve exibir para ele somente o último modal informando que ele já respondeu "Sua avaliação foi enviada com sucesso!";
+
 - [ ] Somente a primeira pergunta é obrigatória, caso o usuário tente passar para frente sem responder ela, deve exibir a mensagem de obrigatoriedade;
 
 - [ ] Quando submeter a pergunta deve aparecer o modal de conclusão e jogar as respostas no console.log() ou em uma outra parte da tela;
