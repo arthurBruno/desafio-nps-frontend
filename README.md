@@ -1,5 +1,5 @@
 # Desafio técnico Frontend
-### O desafio consiste em desenvolver uma pesquisa de NPS com base nesse [figma](https://www.figma.com/file/3TteFpLcUq9JvBXYPUf1vx/Processo-Seletivo---Front?node-id=0%3A1). Abaixo estão os requisitos que devem ser feitos. 
+### O desafio consiste em desenvolver uma pesquisa de NPS com base nesse [figma](https://www.figma.com/file/glA5vLfzImR6JyEGPMiyzM/Untitled?node-id=0%3A1). Abaixo estão os requisitos que devem ser feitos. 
 
 #### Requisitos:
 - [ ] Faça um fork desse repositório e depois envie o link do seu repositório para avaliação;
