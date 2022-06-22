@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "description": "Em uma escala de 0 a 10, quanto você recomendaria a FireDev para um amigo ou familiar?",
+      "required": true,
+      "hasTextField": true,
+      "rating": {
+        "required": true,
+        "value": 0
+      },
+      "textField": {
+        "required": true,
+        "value": "",
+        "placeholder": "Deixe sua opinião e melhorias"
+      }
+    },
+    {
+      "id": "2",
+      "description": "Em uma escala de 0 a 10, quanto você recomendaria o Portal do Desenvolvedor para um amigo ou familiar?",
+      "required": false,
+      "hasTextField": true,
+      "rating": {
+        "required": true,
+        "value": 0
+      },
+      "textField": {
+        "required": false,
+        "value": "",
+        "placeholder": "Deixe sua opinião e melhorias (opcional)"
+      }
+    },
+    {
+      "id": "3",
+      "description": "Em uma escala de 0 a 10, quanto você recomendaria a consultoria Firedev para sua empresa?",
+      "required": true,
+      "hasTextField": true,
+      "rating": {
+        "required": true,
+        "value": 0
+      },
+      "textField": {
+        "required": false,
+        "value": "",
+        "placeholder": "Deixe sua opinião e melhorias (opcional)"
+      }
+    }
+  ]
+}
